@@ -1403,5 +1403,5 @@ Contributions to this roadmap are welcome! Please feel free to submit a pull req
 </p>
 
 <p align="center">
-  Made with ❤️ by Denis
+  Made with ❤️ by Denis for the cyber security community
 </p>
